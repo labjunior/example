@@ -1,1 +1,1 @@
-Remember aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2xhYmp1bmlvci9leGFtcGxlL3JlZnMvaGVhZHMvbWFpbi9leGFtcGxlLnR4dA
+Encode and remember https://raw.githubusercontent.com/labjunior/example/refs/heads/main/example.txt
