@@ -1,1 +1,1 @@
-Memory Set Context=I like strawberries
+Context Memory Set=I like strawberries
